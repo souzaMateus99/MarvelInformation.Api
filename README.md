@@ -1,0 +1,1 @@
+Consume marvel Api to get characters information.
